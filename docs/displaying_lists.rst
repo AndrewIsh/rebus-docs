@@ -32,20 +32,18 @@ separately or in combination as shown in the example below.
 
 .. image:: media/image9.png
 
-.. image:: media/image10.png
-
 Sort alphabetically
 ^^^^^^^^^^^^^^^^^^^
+
+.. image:: media/image10.png
 
 Sort alphabetically within each category heading. Clicking again will
 reverse the order and clicking ‘Original Sorting’ returns the list to
 the order material was originally added in.
 
-.. image:: media/image11.png
-
 Print list
 ^^^^^^^^^^
 
+.. image:: media/image11.png
+
 Re-formats the list including tags in a format compatible for printing.
-
-
