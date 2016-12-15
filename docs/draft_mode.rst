@@ -130,7 +130,7 @@ not display.
 
 +-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | .. image:: media/image70.png | Add new item after this one. This allows you to quickly add new material beneath the item you are working from in the list.                                 |
-+===========+=============================================================================================================================================================+
++------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | .. image:: media/image71.png | Delete this item. This allows you to delete an item from this list it will not remove the item from the system if it is used in another list.               |
 +-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | .. image:: media/image72.png | Move this item. This allows you to drag and drop an item to different positions in the list.                                                                |
