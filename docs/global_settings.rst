@@ -98,32 +98,28 @@ front page**
 
 Modify the Custom CSS block .front-and-center:
 
-.front-and-center {
+.. code-block:: css
 
-:math:`{~}`\ :math:`{~}`\ :math:`{~}`\ color: #ff3333;
-:math:`{~}`\ :math:`{~}`\ :math:`{~}`/\* NEW \*/
-
-:math:`{~}`\ :math:`{~}`\ :math:`{~}`\ margin: 30px 0;
-
-:math:`{~}`\ :math:`{~}`\ :math:`{~}`\ text-align: center;
-
-}
+    .front-and-center {
+      color: #ff3333; /* NEW */
+      margin: 30px 0;
+      text-align: center;
+    }
 
 **Example 2:**
 
 **To hide the rebus:list logo at the top of the navigation page:**
 
-|image|
+.. image:: media/image91.png
 
 In Custom CSS add:
 
-/\* Hide rebuslist logo \*/
-
-.navbar-brand {
-
-:math:`{~}`\ display: none; :math:`{~}`
-
-}
+.. code-block:: css
+    
+    /* Hide rebuslist logo */
+    .navbar-brand {
+      display: none;
+    }
 
 **Example 3:**
 
@@ -131,24 +127,17 @@ In Custom CSS add:
 
 In Custom CSS add:
 
-#site-logo {
-
-:math:`{~}`\ top: 7px;
-
-:math:`{~}`\ display: block;
-
-:math:`{~}`\ background-image:
-url(“http://yourownsite/images/logo.png”);
-
-:math:`{~}`\ background-size: 200px;
-
-:math:`{~}`\ background-repeat: no-repeat;
-
-:math:`{~}`\ height: 66px;
-
-:math:`{~}`\ width: 200px;
-
-}
+.. code-block:: css
+    
+    #site-logo {
+      top: 7px;
+      display: block;
+      background-image: url(“http://yourownsite/images/logo.png”);
+      background-size: 200px;
+      background-repeat: no-repeat;
+      height: 66px;
+      width: 200px;
+    }
 
 **Example 4:**
 
@@ -157,11 +146,11 @@ the navbar:**
 
 In Custom CSS add:
 
-.navbar {
-
-:math:`{~}`\ height: 80px;
-
-}
+.. code-block:: css
+    
+    .navbar {
+      height: 80px;
+    }
 
 **Example 5:**
 
@@ -170,21 +159,25 @@ colour of the navbar**:
 
 In Custom CSS add:
 
-.navbar {
+.. code-block:: css
+    
+    .navbar {
+      height: 80px;
+      background-color: #ff3333;
+    }
 
-:math:`{~}`\ :math:`{~}`\ :math:`{~}`\ :math:`{~}`\ height: 80px;
+Footer content
+--------------
 
-:math:`{~}`\ :math:`{~}`\ :math:`{~}`\ :math:`{~}`\ background-color:
-#ff3333;
-
-}
-
-|image|\ Footer content
+.. image:: media/image92.png
 
 This area allows you to enter html to customise the footer area of the
 page
 
-|image|\ Site title tag / Customer name
+Site title tag / Customer name
+------------------------------
+
+.. image:: media/image93.png
 
 -  Site title tag - appears on the title tabs within browsers
 
@@ -193,39 +186,32 @@ page
    customer\_name anywhere in any of the custom CSS or html on the
    rebus:list system.
 
-8.3 CSL settings:
+CSL settings
+^^^^^^^^^^^^
 
 CSL stands for Citation Style Language and is the language used by the
 system to describe the formatting of citations and bibliographies. For
 further information:
 http://docs.citationstyles.org/en/stable/index.html#
 
-|image|
+.. image:: media/image94.png
 
-|image|\ On this system the default style and locale are selected
+On this system the default style and locale are selected
+
+.. image:: media/image95.png
 
 It is possible to change the citation style if you have the necessary
 privileges.
 
 Some of the more common are:
 
-+----+
-+----+
-
 -  apa-annotated-bibliography
-
 -  harvard-cite-them-right
-
 -  modern-humanities-research-association
-
 -  modern-humanities-research-association-author-date
-
 -  modern-language-association
-
 -  ieee
-
 -  ieee-with-url
-
 -  oscola
 
 There are many alternative CSL citation styles that can be used they can
@@ -244,20 +230,24 @@ here:
 
 https://github.com/citation-style-language/locales
 
-8.4 Scan requests:
+Scan requests
+^^^^^^^^^^^^^
 
 These settings allow you to define which materials will have a request
 button available and to define an email address to send the request to.
 
-|image|
+.. image:: media/image96.png
 
 Use the drop down to select which material types scan request are
 allowed for this allow determines when the scan request icon will
 display.
 
-|image|
+.. image:: media/image97.png
 
-|image|\ 8.5 Material type templates:
+Material type templates
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: media/image98.png
 
 The CSL schema defines a large number of material “types”, each type has
 its own template. It is therefore possible to have books display in a
@@ -267,9 +257,10 @@ Each template is simple HTML with special tags for each material
 metadata field (such as title, author, ISBN etc.). A very simple book
 template might look like this:
 
-<h1><csl-title></csl-title></h1>
-
-<h2><csl-author></csl-author></h2>
+.. code-block:: html
+    
+    <h1><csl-title></csl-title></h1>
+    <h2><csl-author></csl-author></h2>
 
 This template would display just the title and author for each material
 marked as a book in the list. A full list of material metadata tags can
@@ -280,53 +271,63 @@ This, in conjunction with the user defined CSS, offers a lot of control
 over list item display.
 
 Special Attributes
+------------------
 
 In addition to the main material metadata tags, there are a few that can
 be added to elements to control their display:
 
-<hide-if-empty>
+.. code-block:: html
+    
+    <hide-if-empty>
 
 When this is added to an element, the element will be hidden if any of
 its children metadata elements are empty. So, for example:
 
-<h1 hide-if-empty>Title: <csl-title></csl-title></h1>
+.. code-block:: html
+    
+    <h1 hide-if-empty>Title: <csl-title></csl-title></h1>
 
 This would cause the entire <h1\\> element to be hidden if the title of
 the item is not populated.
 
-<div hide-if-empty>
-
-Title: <csl-title></csl-title>
-
-Author: <csl-author></csl-author>
-
-</div>
+.. code-block:: html
+    
+    <div hide-if-empty>
+      Title: <csl-title></csl-title>
+      Author: <csl-author></csl-author>
+    </div>
 
 This would cause the entire <h1\\> element to be not display if either
 the title or author of the item are not populated
 
+.. code-block:: html
+    
     <rebus-linkify>
 
 When this is added to an element, the element will be converted into an
 appropriate link for the item. For example:
 
-<h1><csl-title rebus-linkify></csl-title></h1>
+.. code-block:: html
+    
+    <h1><csl-title rebus-linkify></csl-title></h1>
 
 It is possible to tell linkify what type of link you’d like (if
 available), the available choices are:
 
 -  “fulltext”
-
 -  “weblink”
-
 -  “findonshelf”
 
 e.g.:
 
-<h1><csl-title rebus-linkify=“fulltext”></csl-title></h1>
+.. code-block:: html
+    
+    <h1><csl-title rebus-linkify=“fulltext”></csl-title></h1>
 
 If no value is supplied, linkify will try and provide the best link it
 can, but this may not be appropriate for the material type.
+
+.. code-block:: html
 
     <rebus-collapse>
 
@@ -334,40 +335,36 @@ This creates a collapsible section that can be expanded or collapsed, it
 useful for initially hiding data that can be expanded by the user. It
 accepts a number of attributes:
 
-<rebus-collapse expand-text=“Expand” collapse-text=“Collapse”
-element-class=“panel panel-default” heading-class=“panel-heading”
-body-class=“panel-body”>
+.. code-block:: html
 
-<csl-author></csl-author>
-
-</rebus-collapse>
+    <rebus-collapse expand-text=“Expand” collapse-text=“Collapse” element-class=“panel panel-default” heading-class=“panel-heading” body-class=“panel-body”>
+      <csl-author></csl-author>
+    </rebus-collapse>
 
 This causes the item author to be initially hidden within a collapsible
 box. The various attributes are:
 
 -  expand-text - The text that is displayed when the box is in its
    collapsed state.
-
 -  collapse-text - The text that is displayed when the box is in its
    expanded state.
-
 -  element-class - One or more CSS classes that should be applied to the
    entire box
-
 -  heading-class - One or more CSS classes that should be applied to the
    box heading
-
 -  body-class - One or more CSS classes that should be applied to the
    box body
 
-       <rebus-citeproc>
+.. code-block:: html
+
+    <rebus-citeproc>
 
 This element generates a citation in the CSL format defined in the “CSL
 citation style” section of the Global Settings.
 
-<rebus-citeproc></rebus-citeproc>
+.. code-block:: html
+
+    <rebus-citeproc></rebus-citeproc>
 
 Generates a citation at the position in the template where the
 <rebus-citeproc> element is placed.
-
-|image|
