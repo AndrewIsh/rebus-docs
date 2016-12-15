@@ -166,16 +166,16 @@ not display.
 |                              | drop an item to different positions in the    |
 |                              | list.                                         |
 +------------------------------+-----------------------------------------------+
-| .. image:: media/image72.png | Equivalents. This is a connector dependent    |
+| .. image:: media/image73.png | Equivalents. This is a connector dependent    |
 |                              | tool for FRBR-ized records. If enabled it     |
 |                              | allows for the automatic population of record |
 |                              | equivalents. (See 6.5)                        |
 +------------------------------+-----------------------------------------------+
-| .. image:: media/image73.png | Add list alternatives. This allows you to add |
+| .. image:: media/image74.png | Add list alternatives. This allows you to add |
 |                              | alternative records such as different         | 
 |                              | editions.(See 6.6)                            |
 +------------------------------+-----------------------------------------------+
-| .. image:: media/image74.png | This allows you to select the material for    |
+| .. image:: media/image75.png | This allows you to select the material for    |
 |                              | global editing by the ‘List Action’ tools.    |
 +------------------------------+-----------------------------------------------+
 
@@ -192,14 +192,14 @@ occurring because of a title or publisher change.
 In the example below the title “The histories Herodotus” is
 shown as being a FRBR record that is listed as having 17 equivalents.
 
-.. image:: media/image75.png
+.. image:: media/image76.png
 
 Clicking the Equivalents button will import the records. Alert boxes
 will display to inform you of progress. When the list is published the
 Equivalents icon will appear next to the material. Clicking the icon
 will drop down the attached records.
 
-.. image:: media/image76.png
+.. image:: media/image77.png
 
 With a title such as this the Equivalents are different
 translations of the work.
@@ -217,4 +217,4 @@ material process (See 5.11)
 When you finish creating your new material and publish you will find it
 has been added in an alternatives dropdown.
 
-.. image:: media/image77.png
+.. image:: media/image78.png
