@@ -1,16 +1,70 @@
-.. rebus:list documentation master file, created by
-   sphinx-quickstart on Tue Dec 13 09:04:02 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+rebus:list
+==========
 
-Welcome to rebus:list's documentation!
-======================================
+Introduction
+^^^^^^^^^^^^
+
+Welcome to rebus:list. Whether you are using rebus:list in an academic
+environment to sort materials according to specific courses, or creating
+current awareness lists as part of a public library programme,
+rebus:list allows you to manage your reading list materials in a way
+relevant to your environment.
+
+The purpose of this training guide is to introduce you to the ease of
+use and rich functionality of rebus:list. Just follow the instructions
+in the pages below.
+
+The screen shots are included as examples of screen layout and content;
+the actual content you see may be different.
+
+Any comments you have on the notes would be welcome.
+
+PTFS Europe Limited
+
+54 Well Lane
+
+Horsell
+
+Woking
+
+Surrey GU21 4PP
+
+England
+
+ Tel:
+    +44 (0) 800 756 6803
+
+ Fax:
+    +44 (0) 800 756 6384
+
+ E-mail:
+    support@ptfs-europe.com
+
+Contents
+^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   orientation
+   displaying_lists
+   displaying_items_on_reading_lists
+   creating_reading_lists
+   populating_reading_lists
+   draft_mode
+   administration
+   global_settings
+   manage_hierarchy
+   manage_tags
+   manage_users
+   user_permissions
+   my_lists
+   search_for_material
+   reports
+   requests
+   appendix_a
+   appendix_b
 
 Indices and tables
 ==================
