@@ -19,28 +19,21 @@ the actual content you see may be different.
 
 Any comments you have on the notes would be welcome.
 
-PTFS Europe Limited
+| PTFS Europe Limited
+| 54 Well Lane
+| Horsell
+| Woking
+| Surrey GU21 4PP
+| England
+|  Tel:
+|    +44 (0) 800 756 6803
+|
+|  Fax:
+|    +44 (0) 800 756 6384
+|  E-mail:
+|    support@ptfs-europe.com
 
-54 Well Lane
-
-Horsell
-
-Woking
-
-Surrey GU21 4PP
-
-England
-
- Tel:
-    +44 (0) 800 756 6803
-
- Fax:
-    +44 (0) 800 756 6384
-
- E-mail:
-    support@ptfs-europe.com
-
-Contents
+ Contents
 ^^^^^^^^
 
 .. toctree::
