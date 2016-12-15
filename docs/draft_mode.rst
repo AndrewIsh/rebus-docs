@@ -63,7 +63,7 @@ and publication. This is the situation when using the Author list role
 
 .. image:: media/image57.png
 
-+------------------------------+-----------------------------------------------|
++------------------------------+-----------------------------------------------+
 | .. image:: media/image58.png | Save draft allows a user to save their work   |
 |                              | without finalizing the changes by publishing  |
 |                              | the list. It also allows collaboration        |
