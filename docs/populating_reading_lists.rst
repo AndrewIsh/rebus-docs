@@ -71,16 +71,16 @@ On clicking finish the material is added to the list.
 Note. Local Material is limited to material that has been manually
 created.
 
-.. image:: media/image33.png
-
 Add Materials - Manual
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: media/image34.png
+.. image:: media/image33.png
 
 Material can also be created manually in rebus:list. When you
 select to add material manually you will initially need to select a
 material type from the drop down. (see Section 8.5)
+
+.. image:: media/image34.png
 
 When you select a Material Type you are presented with the data entry
 screen. This screen allows you to add the relevant detail for the
@@ -117,10 +117,10 @@ returned to the add items screen.
 Click finish on this screen and the material will be added to
 the list.
 
-.. image:: media/image39.png
-
 Making Sublists
 ^^^^^^^^^^^^^^^
+
+.. image:: media/image39.png
 
 When you select to add to a list the button a further option available
 is to add a sub-list. This is to allow users who don’t have access to
@@ -140,10 +140,10 @@ list
 
 .. image:: media/image41.png
 
-.. image:: media/image42.png
-
 Sublists are also available from the breadcrumb trail at the
 top of the list
+
+.. image:: media/image42.png
 
 To delete a Sublist in Draft Mode navigate to the bottom of the list
 where the sublist displays and click on the bin icon next to the list.
@@ -153,10 +153,10 @@ where the sublist displays and click on the bin icon next to the list.
 rebus:list:it
 ^^^^^^^^^^^^^
 
-.. image:: media/image44.png
-
 The final way of adding material to a list is via the
 rebus:list:it bookmarklet. You can access this on the My Lists page
+
+.. image:: media/image44.png
 
 rebus:list:it is a bookmarklet tool that can be used to import items
 from external websites such as catalogues, booksellers, journal
