@@ -1,3 +1,5 @@
+.. _manage_tags:
+
 Manage Tags
 ===========
 
