@@ -150,6 +150,7 @@ top of the list
 To delete a Sublist in Draft Mode navigate to the bottom of the list
 where the sublist displays and click on the bin icon next to the list.
 
+.. image:: media/image44.png
 
 rebus:list:it
 ^^^^^^^^^^^^^
@@ -157,7 +158,7 @@ rebus:list:it
 The final way of adding material to a list is via the
 rebus:list:it bookmarklet. You can access this on the My Lists page
 
-.. image:: media/image44.png
+.. image:: media/image45.png
 
 rebus:list:it is a bookmarklet tool that can be used to import items
 from external websites such as catalogues, booksellers, journal
@@ -166,22 +167,22 @@ providers, etc.
 Drag the image to your bookmarks bar to start using the rebus:list:it
 tool. After you have added the tool it will show on your toolbar.
 
-.. image:: media/image45.png
-
 From an external page on a library catalogue opac, a
 bookseller, or service (e.g. Amazon, Google Books, a journal provider,
 COPAC etc.) from the full view record of an item, click the
 rebus:list:it icon on your bookmarks bar to import the item.
+
+.. image:: media/image46.png
 
 When a record is selected, the user will be prompted to choose a list to
 add the item to. This will be restricted to lists for which the user has
 permission to edit. A connector search is also carried out to check if
 the material is available from your other sources.
 
-.. image:: media/image46.png
-
 Making a List Visible
 ^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: media/image47.png
 
 Once you have finished creating your list to make it visible to the
 outside world it will need to be unsuppressed. For users with the
@@ -189,9 +190,9 @@ correct permissions to do this is as simple as clicking the suppress /
 un-suppress button on the List Actions Bar.
 
 +------------------------------+----------------------------------+
-| .. image:: media/image47.png | Un-suppress - Currently Hidden   |
+| .. image:: media/image48.png | Un-suppress - Currently Hidden   |
 +==============================+==================================+
-| .. image:: media/image48.png | Suppress - Currently Visible     |
+| .. image:: media/image49.png | Suppress - Currently Visible     |
 +------------------------------+----------------------------------+
 
 
