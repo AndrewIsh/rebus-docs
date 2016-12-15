@@ -7,14 +7,14 @@ roles and privileges
 Logging in and logging out
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: media/image21.png
-
 To Log in click on the Main menu icon at the top of rebus:list,
 this opens the menu sidebar.
 
-.. image:: media/image22.png
+.. image:: media/image21.png
 
 Click Login
+
+.. image:: media/image22.png
 
 Log in using your username and password.
 
@@ -33,9 +33,9 @@ The metadata for the list is provided during list creation using Manage
 hierarchy. Below is the form that is presented to the librarian or
 administrative user.
 
-.. image:: media/image24.png
-
 The fields in the metadata form are:
+
+.. image:: media/image24.png
 
 -  Name -This is the list descriptive name as it will appear in the
    headings and hierarchy
