@@ -1,6 +1,9 @@
-8. Global Settings
+Global Settings
+===============
 
-These tabs represent each global setting group:\ |image|
+These tabs represent each global setting group:
+
+.. image:: media/image80.png
 
 8.1 Miscellaneous settings:
 
