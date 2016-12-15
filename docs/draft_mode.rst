@@ -111,18 +111,23 @@ The moderated workflow makes use of the Editor and Moderator user roles
 modification. An Editor can build and manage as previously discussed but
 can’t publish.
 
-.. image:: media/image64.png
++------------------------------+----------------------------------------------+
+| .. image:: media/image64.png | The submit button replaces the publish       |
+|                              | button in the moderated workflow. When a     |
+|                              | user with a role of Editor has finished      |
+|                              | editing a list clicking submit flags it as   |
+|                              | requiring moderation.                        |
++------------------------------+----------------------------------------------+
 
-The submit button replaces the publish button in the moderated
-workflow. When a user with a role of Editor has finished editing a list
-clicking submit flags it as requiring moderation.
-
-.. image:: media/image65.png
-
-When a user with Moderation permissions edits a submitted list
-rather than the standard publish button they are provided with a choice
-of ‘Thumbs Up’ accept and publish or ‘Thumbs Down’ reject. If reject is
-selected the Moderator will be asked to provide a reason.
++------------------------------+----------------------------------------------+
+| .. image:: media/image65.png | When a user with Moderation permissions      |
+|                              | edits a submitted list rather than the       |
+|                              | standard publish button they are provided    |
+|                              | with a choice of ‘Thumbs Up’ accept and      |
+|                              | publish or ‘Thumbs Down’ reject. If reject   |
+|                              | is selected the Moderator will be asked to   |
+|                              | provide a reason.                            |
++------------------------------+----------------------------------------------+
 
 In the example below an editor has made a modification to a list and
 will then click to submit it for moderation.
