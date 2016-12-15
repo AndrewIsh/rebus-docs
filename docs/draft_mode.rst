@@ -134,24 +134,23 @@ will then click to submit it for moderation.
 
 .. image:: media/image66.png
 
-.. image:: media/image67.png
-
 When the Moderator logs in My Lists, they can see that one of
 their lists has a moderation request
-
-.. image:: media/image68.png
+.. image:: media/image67.png
 
 The moderator then opens the list and can either publish the
 draft or reject the submission.
 
+.. image:: media/image68.png
+
 Material Manipulation
 ^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: media/image69.png
 
 In Draft Mode several edit options are available on the
 material in the list itself. Dependant on the material some of these may
 not display.
+
+.. image:: media/image69.png
 
 +------------------------------+-----------------------------------------------+
 | .. image:: media/image70.png | Add new item after this one. This allows you  |
@@ -190,10 +189,10 @@ be the hardcopy and electronic version of a journal title. Another
 example is when there is a continuation record for a Journal title
 occurring because of a title or publisher change.
 
-.. image:: media/image75.png
-
 In the example below the title “The histories Herodotus” is
 shown as being a FRBR record that is listed as having 17 equivalents.
+
+.. image:: media/image75.png
 
 Clicking the Equivalents button will import the records. Alert boxes
 will display to inform you of progress. When the list is published the
