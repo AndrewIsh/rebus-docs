@@ -25,7 +25,6 @@ material entry
 
 .. image:: media/image52.png
 
-
 +------------------------------+-----------------------------------------------+
 | .. image:: media/image53.png | Multiple items can be selected allowing you   |
 |                              | to perform actions on groups of material      |
@@ -50,7 +49,6 @@ material entry
 |                              | multiple items in a list.                     |
 +------------------------------+-----------------------------------------------+
 
-
 The other four icons on the toolbar control are specifically related to
 the draft. Different icons are displayed depending on the workflow in
 use.
@@ -58,22 +56,24 @@ use.
 Unmoderated Workflow
 ^^^^^^^^^^^^^^^^^^^^
 
-.. image:: media/image57.png
-
 Below is the display for a non-moderated workflow. In a
 non-moderated workflow the list owner has full control of list saving
 and publication. This is the situation when using the Author list role
 (see Section 11.4)
 
-.. image:: media/image58.png
+.. image:: media/image57.png
 
-Save draft allows a user to save their work without finalizing
-the changes by publishing the list. It also allows collaboration between
-users on a draft prior to publication. When a list has a draft saved its
-appearance is changed for any user that has editing rights.
++------------------------------+-----------------------------------------------|
+| .. image:: media/image58.png | Save draft allows a user to save their work   |
+|                              | without finalizing the changes by publishing  |
+|                              | the list. It also allows collaboration        |
+|                              | between users on a draft prior to             |
+|                              | publication. When a list has a draft saved    |
+|                              | its appearance is changed for any user that   |
+|                              | has editing rights.                           |
++------------------------------+-----------------------------------------------+
 
 .. image:: media/image59.png
-
 
 When a user with the required permissions select edit on the saved draft
 the edit screen will open and two alert boxes will open with information
@@ -83,21 +83,25 @@ changes.
 
 .. image:: media/image60.png
 
-.. image:: media/image61.png
-
-Publishing the list finalizes the changes made in draft mode
-it’s the last step in the editing process. When changes are made and
-then the list is published any user with viewing rights can see those
-changes.
++------------------------------+-----------------------------------------------+
+| .. image:: media/image61.png | Publishing the list finalizes the changes     |
+|                              | made in draft mode it’s the last step in the  |
+|                              | editing process. When changes are made and    |
+|                              | then the list is published any user with      |
+|                              | viewing rights can see those changes.         |
++------------------------------+-----------------------------------------------+
 
 Note. Publishing does not make the list visible to the public, that is
 controlled by list suppression.
 
-.. image:: media/image62.png
-
-.. image:: media/image63.png
-
-The final two buttons as you would expect undo and redo changes
++------------------------------+-----------------------------------------------+
+| .. image:: media/image62.png | The final two  | .. image:: media/image63.png |
+|                              | two buttons as |                              |
+|                              | you would      |                              |
+|                              | expect undo    |                              |
+|                              | and redo       |                              |
+|                              | changes        |                              |
++------------------------------+-----------------------------------------------+
 
 Moderated Workflow
 ^^^^^^^^^^^^^^^^^^
