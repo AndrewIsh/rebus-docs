@@ -56,7 +56,8 @@ page:
 
 .. image:: media/image88.png
 
-Logos:
+Logos
+-----
 
 If you have a site logo located on your own website separate to
 rebus:list, you can point to the full URL as in Example 3 below.
@@ -67,15 +68,15 @@ site logo on the rebus:list server.
 .. image:: media/image89.png
 
 Front page content
+------------------
 
 On migration there are 3 columns of default content starting with:
 
-<h1 class=“front-and-center”>Welcome to rebus:list 2</h1>
-
-<div class=“row”>
-
-:math:`{~}`\ :math:`{~}`\ :math:`{~}`\ <div class=“col-md-4
-content-column”>......
+.. code-block:: html
+    
+    <h1 class=“front-and-center”>Welcome to rebus:list 2</h1>
+      <div class=“row”>
+        <div class=“col-md-4 content-column”>......
 
 You can change the text here and layout by modifying the html - e.g. to
 create 2 columns instead of 3.
@@ -86,6 +87,7 @@ use in conjunction with the Custom CSS block.
 .. image:: media/image90.png
 
 Custom CSS
+----------
 
 Build up any custom changes to existing CSS and add new CSS blocks here.
 
