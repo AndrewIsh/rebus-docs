@@ -26,15 +26,29 @@ material entry
 .. image:: media/image52.png
 
 
-+------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image53.png | Multiple items can be selected allowing you to perform actions on groups of material quickly. This box indicates how many materials have been selected. Clicking the box will select all items in the list.                                                     |
-+------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image54.png | Create a sublist from the selected materials. Materials can either be moved or copied to a new sublist. On selection the sublist metadata page is opened. (see Section 5.3)                                                                                     |
-+------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image55.png | Append to an existing list. Materials can either be moved or copied to existing lists. On selection a search box is opened to allow you to choose the relevant list to append to - lists displayed depend on your roles and privileges. (see Section 12)        |
-+------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image56.png | Add Tag to material. Using this tool allows for the creation and addition of a tag to multiple items in a list.                                                                                                                                                 |
-+------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------+-----------------------------------------------+
+| .. image:: media/image53.png | Multiple items can be selected allowing you   |
+|                              | to perform actions on groups of material      |
+|                              | quickly. This box indicates how many          |
+|                              | materials have been selected. Clicking the    |
+|                              | box will select all items in the list.        |
++------------------------------+-----------------------------------------------+
+| .. image:: media/image54.png | Create a sublist from the selected materials. |
+|                              | Materials can either be moved or copied to a  |
+|                              | new sublist. On selection the sublist         |
+|                              | metadata page is opened. (see Section 5.3)    |
++------------------------------+-----------------------------------------------+
+| .. image:: media/image55.png | Append to an existing list. Materials can     |
+|                              | either be moved or copied to existing lists.  |
+|                              | On selection a search box is opened to allow  |
+|                              | you to choose the relevant list to append to  |
+|                              | - lists displayed depend on your roles and    |
+|                              | privileges. (see Section 12)                  |
++------------------------------+-----------------------------------------------+
+| .. image:: media/image56.png | Add Tag to material. Using this tool allows   |
+|                              | for the creation and addition of a tag to     |
+|                              | multiple items in a list.                     |
++------------------------------+-----------------------------------------------+
 
 
 The other four icons on the toolbar control are specifically related to
@@ -130,19 +144,32 @@ In Draft Mode several edit options are available on the
 material in the list itself. Dependant on the material some of these may
 not display.
 
-+------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image70.png | Add new item after this one. This allows you to quickly add new material beneath the item you are working from in the list.                                 |
-+------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image71.png | Delete this item. This allows you to delete an item from this list it will not remove the item from the system if it is used in another list.               |
-+------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image72.png | Move this item. This allows you to drag and drop an item to different positions in the list.                                                                |
-+------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image72.png | Equivalents. This is a connector dependent tool for FRBR-ized records. If enabled it allows for the automatic population of record equivalents. (See 6.5)   |
-+------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image73.png | Add list alternatives. This allows you to add alternative records such as different editions.(See 6.6)                                                      |
-+------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image74.png | This allows you to select the material for global editing by the ‘List Action’ tools.                                                                       |
-+------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------+-----------------------------------------------+
+| .. image:: media/image70.png | Add new item after this one. This allows you  |
+|                              | to quickly add new material beneath the item  |
+|                              | you are working from in the list.             |
++------------------------------+-----------------------------------------------+
+| .. image:: media/image71.png | Delete this item. This allows you to delete   |
+|                              | an item from this list it will not remove the |
+|                              | item from the system if it is used in another |
+|                              | list.                                         |
++------------------------------+-----------------------------------------------+
+| .. image:: media/image72.png | Move this item. This allows you to drag and   |
+|                              | drop an item to different positions in the    |
+|                              | list.                                         |
++------------------------------+-----------------------------------------------+
+| .. image:: media/image72.png | Equivalents. This is a connector dependent    |
+|                              | tool for FRBR-ized records. If enabled it     |
+|                              | allows for the automatic population of record |
+|                              | equivalents. (See 6.5)                        |
++------------------------------+-----------------------------------------------+
+| .. image:: media/image73.png | Add list alternatives. This allows you to add |
+|                              | alternative records such as different         | 
+|                              | editions.(See 6.6)                            |
++------------------------------+-----------------------------------------------+
+| .. image:: media/image74.png | This allows you to select the material for    |
+|                              | global editing by the ‘List Action’ tools.    |
++------------------------------+-----------------------------------------------+
 
 Equivalents
 ^^^^^^^^^^^
@@ -183,4 +210,3 @@ When you finish creating your new material and publish you will find it
 has been added in an alternatives dropdown.
 
 .. image:: media/image77.png
-
