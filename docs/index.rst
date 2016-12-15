@@ -12,9 +12,9 @@ relevant to your environment.
 
 The purpose of this training guide is to introduce you to the ease of
 use and rich functionality of rebus:list. Just follow the instructions
-in the pages below.
+on the pages below.
 
-The screen shots are included as examples of screen layout and content;
+The screenshots are included as examples of screen layout and content;
 the actual content you see may be different.
 
 Any comments you have on the notes would be welcome.
@@ -26,11 +26,11 @@ Any comments you have on the notes would be welcome.
 | Surrey GU21 4PP
 | England
 
-  Tel: +44 (0) 800 756 6803
-  Fax: +44 (0) 800 756 6384
-  E-mail: support@ptfs-europe.com
+| Tel: +44 (0) 800 756 6803
+| Fax: +44 (0) 800 756 6384
+| E-mail: support@ptfs-europe.com
 
- Contents
+Contents
 ^^^^^^^^
 
 .. toctree::
