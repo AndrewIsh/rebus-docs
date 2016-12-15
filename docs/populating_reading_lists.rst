@@ -117,19 +117,21 @@ returned to the add items screen.
 Click finish on this screen and the material will be added to
 the list.
 
+.. image:: media/image39.png
+
 Making Sublists
 ^^^^^^^^^^^^^^^
 
-.. image:: media/image39.png
+.. image:: media/image40.png
 
 When you select to add to a list the button a further option available
 is to add a sub-list. This is to allow users who don’t have access to
 the hierarchy to create lists related to the list they manage.
 
-.. image:: media/image40.png
-
 After selecting to add a sublist you will be presented with a
 simplified version of the List Metadata screen (see Section 4.2)
+
+.. image:: media/image41.png
 
 Once you have filled out the relevant fields and clicked finish your
 sublist will have been created. The procedure for populating a sublist
@@ -138,17 +140,16 @@ is the same as for a normal list.
 When completed sublists can be accessed from the bottom of the parent
 list
 
-.. image:: media/image41.png
+.. image:: media/image42.png
 
 Sublists are also available from the breadcrumb trail at the
 top of the list
 
-.. image:: media/image42.png
+.. image:: media/image43.png
 
 To delete a Sublist in Draft Mode navigate to the bottom of the list
 where the sublist displays and click on the bin icon next to the list.
 
-.. image:: media/image43.png
 
 rebus:list:it
 ^^^^^^^^^^^^^
