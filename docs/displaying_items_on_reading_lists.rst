@@ -8,20 +8,16 @@ a generic icon representing material type is displayed.
 
 .. image:: media/image12.png
 
-**Table of Contents**
-
-**View Full Text**
-
 Find items on shelf
 ^^^^^^^^^^^^^^^^^^^
 
 .. image:: media/image13.png
 
-.. image:: media/image14.png
-
 Items which show the Find items on shelf icon will either
 display: a link through to the catalogue or discovery platform for
 real-time information (e.g. print holdings).
+
+.. image:: media/image14.png
 
 eBooks and full-text
 ^^^^^^^^^^^^^^^^^^^^
@@ -43,10 +39,10 @@ eBooks and full-text
 
 .. image:: media/image16.png
 
-.. image:: media/image17.png
-
 Web links
 ^^^^^^^^^
+
+.. image:: media/image17.png
 
 Link to the URL that has been entered in the rebus:list item record.
 
@@ -65,10 +61,10 @@ View current table of content
 
 -  Subscribe to the feed as usual for update alerts in your browser.
 
-.. image:: media/image20.png
-
 Rating material in lists
 ^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: media/image20.png
 
 -  Users can flag items that they think are useful or not useful
 
