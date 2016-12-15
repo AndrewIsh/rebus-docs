@@ -44,11 +44,11 @@ search icon.
 
 .. image:: media/image28.png
 
-.. image:: media/image29.png
-
 After you carry out the search the results are returned for the
 different connectors as well as for material that has been manually
 added to existing lists. You then click to expand the results.
+
+.. image:: media/image29.png
 
 You can select one or more of the returned results then click finish to
 add them to your list.
@@ -60,14 +60,13 @@ minus and in the results bar.
 
 .. image:: media/image30.png
 
-+------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: media/image31.png | Material will take its item type from the connector (if present). In creating a reading list its sometimes necessary to add individual chapters or sections from a single title. To facilitate that rebus:list allows you to add material to the list as a section using a dropdown.   |
-+==============================+========================================================================================================================================================================================================================================================================================+
-+------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+Material will take its item type from the connector (if present). In creating a reading list its sometimes necessary to add individual chapters or sections from a single title. To facilitate that rebus:list allows you to add material to the list as a section using a dropdown. 
 
-.. image:: media/image32.png
+.. image:: media/image31.png
 
 On clicking finish the material is added to the list.
+
+.. image:: media/image32.png
 
 Note. Local Material is limited to material that has been manually
 created.
