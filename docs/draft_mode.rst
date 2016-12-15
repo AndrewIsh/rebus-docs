@@ -94,14 +94,14 @@ changes.
 Note. Publishing does not make the list visible to the public, that is
 controlled by list suppression.
 
-+------------------------------+-----------------------------------------------+
++------------------------------+----------------+------------------------------+
 | .. image:: media/image62.png | The final two  | .. image:: media/image63.png |
 |                              | two buttons as |                              |
 |                              | you would      |                              |
 |                              | expect undo    |                              |
 |                              | and redo       |                              |
 |                              | changes        |                              |
-+------------------------------+-----------------------------------------------+
++------------------------------+----------------+------------------------------+
 
 Moderated Workflow
 ^^^^^^^^^^^^^^^^^^
