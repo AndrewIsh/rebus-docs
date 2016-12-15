@@ -25,9 +25,10 @@ Any comments you have on the notes would be welcome.
 | Woking
 | Surrey GU21 4PP
 | England
-|  Tel: +44 (0) 800 756 6803
-|  Fax: +44 (0) 800 756 6384
-|  E-mail: support@ptfs-europe.com
+
+  Tel: +44 (0) 800 756 6803
+  Fax: +44 (0) 800 756 6384
+  E-mail: support@ptfs-europe.com
 
  Contents
 ^^^^^^^^
