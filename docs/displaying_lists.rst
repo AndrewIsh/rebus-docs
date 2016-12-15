@@ -23,7 +23,7 @@ Filter list
 
 .. image:: media/image8.png
 
-Filter the list by material tag or material type. (see :ref: `manage_tags` )
+Filter the list by material tag or material type. (see :ref: `manage_tags`)
 
 The filters displayed are dependent on the contents of the list. The
 material type filter is always displayed. The tag filter only displays
