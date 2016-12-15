@@ -5,17 +5,20 @@ These tabs represent each global setting group:
 
 .. image:: media/image80.png
 
-8.1 Miscellaneous settings:
+Miscellaneous settings
+^^^^^^^^^^^^^^^^^^^^^^
 
-|image|
+.. image:: media/image81.png
 
 Allows you to enable or disable the like feature.
 
-|image|\ Allows you to specify a default administration email address.
+.. image:: media/image82.png
+
+Allows you to specify a default administration email address.
 
 Allows you to select one or more of the available book jacket providers
 
-|image|
+.. image:: media/image83.png
 
 You can edit, remove or create new Global category headings here. These
 headings allow you to organize material, within lists, into meaningful
@@ -25,23 +28,24 @@ change the order in which they display using drag and drop. You will be
 prevented from deleting a category that already contains material but
 you may rename it.
 
-|image|
+.. image:: media/image84.png
 
 Enter your resolvers base URL in this box to allow OpenURL linking.
 
-|image|
+.. image:: media/image85.png
 
 This is a system setting which defines the out of hours period during
 which scheduled reports will run.
 
-|image|
+.. image:: media/image86.png
 
 This switch allows you to choose to display the course code along with
 the title
 
-|image|
+.. image:: media/image87.png
 
-8.2 Custom content & CSS:
+Custom content & CSS
+^^^^^^^^^^^^^^^^^^^^
 
 The look and feel of rebus:list is highly customisable. You can create
 your own front page and footer content, and use CSS to make changes
@@ -50,7 +54,7 @@ throughout the system.
 Use a web developer tool such as Firebug to identify elements on the
 page:
 
-|image|
+.. image:: media/image88.png
 
 Logos:
 
@@ -60,7 +64,9 @@ rebus:list, you can point to the full URL as in Example 3 below.
 Please contact PTFS Europe Support if you would like us to host your
 site logo on the rebus:list server.
 
-|image|\ Front page content
+.. image:: media/image89.png
+
+Front page content
 
 On migration there are 3 columns of default content starting with:
 
@@ -77,7 +83,9 @@ create 2 columns instead of 3.
 You can use the existing CSS or add new CSS declarations that you can
 use in conjunction with the Custom CSS block.
 
-|image|\ Custom CSS
+.. image:: media/image90.png
+
+Custom CSS
 
 Build up any custom changes to existing CSS and add new CSS blocks here.
 
