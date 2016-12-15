@@ -11,13 +11,13 @@ icons on material entries themselves.
 The List Action Toolbar
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: media/image51.png
-
 The List Action Toolbar is floating and remains visible as you
 scroll down the page. The functions are greyed out if they are not
 available. The functions are split into two groups - the first group are
 actions that can be carried out on specific selected material, the
 second group are related to the whole list.
+
+.. image:: media/image51.png
 
 For the first group of icons to be enabled one or more items on the list
 must be ‘selected’ - this is done by clicking the tick icon alongside a
