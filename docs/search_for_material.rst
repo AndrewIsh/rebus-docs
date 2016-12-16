@@ -8,15 +8,12 @@ Phrases should be double quoted e.g. “This is a phrase”.
 |image|
 
 A search provides a summary of information about the material found.
-Title, Author and ISBN are displayed alongside columns for Tags and
-Actions.
+Title, Author and ISBN are displayed alongside a column for Actions.
 
-Clicking the SHOW TAGS button to display the Tags associated with that
-material.
-
-|image|\ The Actions column allows users to view the lists that the
+The Actions column allows users to view the lists that the
 material is used in also, if they have the correct privileges, to edit
-manually created material.
+manually created material. The material's Global Tags can also be added
+and removed from here.
 
 |image|\ The edit button opens edit material box and providing you have
 the correct permissions and the material was manually added you can edit
